@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Huzaifa, a Full-Stack Developer from Karachi, Pakistan<br><br>- 📚 I'm currently working on my Full-Stack Blog app with React, Redux, TS, Adonis and mySQL<br>- ⚡ In my free time I play games. I've completed GTA IV, GTA V, Cyberpunk 2077, Stray and Age Of Empires III. Currently I'm playing Tomb Raider.</p>
+<h4 align="left">I'm Huzaifa, a Full-Stack Developer from Karachi, Pakistan<br><br>- 📚 I'm currently working on my Full-Stack Blog app with React, Redux, TS, Adonis and mySQL<br>- ⚡ In my free time I play games. I've completed GTA IV, GTA V, Cyberpunk 2077, Stray and Age Of Empires III. Currently I'm playing Tomb Raider.</h4>
 
 ###
 
