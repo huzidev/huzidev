@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 I'm Huzaifa, a 23-year-old full-stack engineer from Karachi, Pakistan.  
-With 2+ years of hands-on experience, I solve complex problems, bugs, eliminate errors, and craft reliable, user-friendly software experiences.
+I solve complex problems, bugs, eliminate errors, and craft reliable, user-friendly software experiences.
 
 - ⚙️ I mostly work with **NextJS**, **RemixJS**, **NodeJS**, **Prisma**, and **PostgreSQL**
 - 🧠 I enjoy building personal projects, learning new technologies, and further polishing my skills
