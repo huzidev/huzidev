@@ -1,16 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Huzaifa</h1>
-<h3 align="center">A passionate Full-Stack Engineer from Karachi, Pakistan</h3>
+<h1 align="left">Hi there 👋, I'm Huzaifa</h1>
+<h3 align="left">A passionate Full-Stack Engineer from Karachi, Pakistan</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm Huzaifa, a 23-year-old Full-Stack Developer born and raised in Karachi. I specialize in building scalable, pixel-perfect, and user-friendly web applications using modern web technologies.
+I'm Huzaifa, a 23-year-old full-stack engineer based in Karachi, Pakistan.  
+**With 2+ years of hands-on experience**, I solve complex problems, automate repetitive tasks, and build intuitive software experiences.
 
-- 💼 I craft full-stack apps with **TypeScript**, focusing on clean architecture and responsive UI.
-- 🧠 I enjoy solving coding challenges on **LeetCode** to sharpen my problem-solving skills.
-- 🎮 When I'm not coding, you'll find me gaming. I’ve completed:  
-  _GTA IV, GTA V, Cyberpunk 2077, Stray, Tomb Raider series, Age of Empires III_  
+- ⚙️ I mostly work with **Next.js**, **Remix.js**, **Node.js**, **Prisma**, and **PostgreSQL**
+- 🧠 I enjoy building personal projects, learning new technologies, and polishing my skills on **LeetCode**
+- 🎯 I’m always focused on crafting clean architecture and pixel-perfect UIs for modern web applications
+- 🎮 Outside work, I’m a gamer at heart. Some all-time favorites include:  
+  _GTA V, Cyberpunk 2077, Tomb Raider Trilogy, Age of Empires III, Stray_  
   Currently playing: _Shadow Of The Tomb Raider_
 
 ---
@@ -25,17 +27,17 @@ I'm Huzaifa, a 23-year-old Full-Stack Developer born and raised in Karachi. I sp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remix/remix-original.svg" height="40" alt="RemixJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="AdonisJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remix/remix-original.svg" height="40" alt="RemixJS" />
 </p>
 
 #### Databases & ORMs:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="PrismaORM" />
@@ -53,9 +55,11 @@ I'm Huzaifa, a 23-year-old Full-Stack Developer born and raised in Karachi. I sp
   <img src="https://img.shields.io/badge/AntDesign-0170FE?logo=ant-design&logoColor=white&style=flat" height="28" alt="Ant Design" />
 </p>
 
-#### Dev Tools & Platforms:
+#### DevOps, Tools & Integrations:
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat" height="28" alt="Stripe" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat" height="28" alt="Vercel" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat" height="28" alt="Heroku" />
@@ -73,7 +77,7 @@ I'm Huzaifa, a 23-year-old Full-Stack Developer born and raised in Karachi. I sp
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/huzaifadev/" target="_blank">
