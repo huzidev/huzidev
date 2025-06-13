@@ -74,6 +74,7 @@ I solve complex problems, bugs, eliminate errors, and craft reliable, user-frien
 
 <p align="left">
   <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat" height="28" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white&style=flat" height="28" alt="Strapi CMS" />
 </p>
 
 ---
