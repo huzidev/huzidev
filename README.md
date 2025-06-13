@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Huzaifa</h1>
-<h3 align="left">A passionate Full-Stack Engineer from Karachi, Pakistan</h3>
+<h3 align="left">A passionate Full-Stack Engineer with 2+ years of experience</h3>
 
 ---
 
