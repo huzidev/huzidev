@@ -26,7 +26,7 @@ I solve complex problems, bugs, eliminate errors, and craft reliable, user-frien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remix/remix-original.svg" height="40" alt="RemixJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remixjs/remixjs-original.svg" height="40" alt="RemixJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="AdonisJS" />
