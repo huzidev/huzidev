@@ -1,19 +1,18 @@
 <h1 align="left">Hi there 👋, I'm Huzaifa</h1>
-<h3 align="left">A passionate Full-Stack Engineer with 2+ years of experience</h3>
+<h3 align="left">A Full-Stack Engineer with 2+ years of experience</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm Huzaifa, a 23-year-old full-stack engineer based in Karachi, Pakistan.  
-With 2+ years of hands-on experience, I solve complex problems, automate repetitive tasks, and build intuitive software experiences.
+I'm Huzaifa, a 23-year-old full-stack engineer from Karachi, Pakistan.  
+With 2+ years of hands-on experience, I solve complex problems, bugs, eliminate errors, and craft reliable, user-friendly software experiences.
 
-- ⚙️ I mostly work with **Next.js**, **Remix.js**, **Node.js**, **Prisma**, and **PostgreSQL**
-- 🧠 I enjoy building personal projects, learning new technologies, and polishing my skills on **LeetCode**
-- 🎯 I’m always focused on crafting clean architecture and pixel-perfect UIs for modern web applications
+- ⚙️ I mostly work with **NextJS**, **RemixJS**, **NodeJS**, **Prisma**, and **PostgreSQL**
+- 🧠 I enjoy building personal projects, learning new technologies, and further polishing my skills
+- 🎯 I always prioritize building scalable systems with clean, readable code that’s easy to maintain and extend.
 - 🎮 Outside work, I’m a gamer at heart. Some all-time favorites include:  
-  _GTA V, Cyberpunk 2077, Tomb Raider Trilogy, Age of Empires III, Stray_  
-  Currently playing: _Shadow Of The Tomb Raider_
+  _GTA V, Cyberpunk 2077, Tomb Raider Trilogy, Age of Empires III and story-driven detective games_
 
 ---
 
@@ -83,7 +82,7 @@ With 2+ years of hands-on experience, I solve complex problems, automate repetit
   <a href="https://www.linkedin.com/in/huzaifadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
   </a>
-  <a href="mailto:huzaifadev@gmail.com">
+  <a href="mailto:huzaifa.iqdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" />
   </a>
 </p>
