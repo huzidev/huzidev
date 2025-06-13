@@ -26,7 +26,7 @@ I solve complex problems, bugs, eliminate errors, and craft reliable, user-frien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remixjs/remixjs-original.svg" height="40" alt="RemixJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remix/remix-original.svg" height="40" alt="RemixJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="AdonisJS" />
@@ -54,15 +54,26 @@ I solve complex problems, bugs, eliminate errors, and craft reliable, user-frien
   <img src="https://img.shields.io/badge/AntDesign-0170FE?logo=ant-design&logoColor=white&style=flat" height="28" alt="Ant Design" />
 </p>
 
-#### DevOps, Tools & Integrations:
+
+#### 🛠️ DevOps & Tooling
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat" height="28" alt="Stripe" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+#### ☁️ Deployment Platforms
+
+<p align="left">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat" height="28" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat" height="28" alt="Heroku" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" height="28" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat" height="28" alt="Heroku" />
+</p>
+
+#### 🔌 3rd-Party APIs & Integrations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat" height="28" alt="Stripe" />
 </p>
 
 ---
